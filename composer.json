@@ -1,0 +1,20 @@
+{
+    "name": "oscar/supabase",
+    "description": "Basic pure PHP web project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oscaralderete",
+            "email": "oscar.alderete@aol.com"
+        }
+    ],
+    "require": {
+        "rafaelwendel/phpsupabase": "^0.0.7",
+        "jenssegers/blade": "^2.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
