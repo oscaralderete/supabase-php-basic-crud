@@ -43,4 +43,6 @@ npm install
 gulp
 ```
 
+PS: Si necesitas un vídeo para ver lo que hace:
 
+<a href="https://www.youtube.com/watch?v=RwZiv2A5onA&ab_channel=OscarAlderete" target="_blank"><img src="https://img.youtube.com/vi/RwZiv2A5onA/0.jpg" alt="PHP Supabase basic integration"/></a>
